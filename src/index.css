@@ -23,6 +23,12 @@ code {
     monospace;
 }
 
+section {
+  background-color: #f8f8f8;
+  color: #6964e2;
+  height: 100%;
+  width: 100%;
+}
 @media (max-width: 480px) {
 }
 
